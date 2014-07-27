@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/guyworldvamk.png</file>
+        <file>icons/nicevamk.png</file>
+        <file>icons/plainvamk.png</file>
+        <file>icons/puvicon.png</file>
+        <file>icons/vamk.png</file>
+    </qresource>
+</RCC>

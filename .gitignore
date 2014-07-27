@@ -13,7 +13,11 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.svn
 
+obj/*
+debug/*
+debian/*
 # =========================
 # Operating System Files
 # =========================
